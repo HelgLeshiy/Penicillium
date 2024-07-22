@@ -27,6 +27,7 @@ input::-webkit-inner-spin-button {
 
 canvas {
   background-color: rgba(0, 0, 0, 0);
+  opacity: 0.95;
 }
 
 #GameDiv {
